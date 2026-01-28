@@ -1,5 +1,10 @@
 # Java-to-.NET AWS Migration Demo
 
+[![.NET CI](https://github.com/fchchen/java-to-dotnet-aws-demo/actions/workflows/dotnet.yml/badge.svg)](https://github.com/fchchen/java-to-dotnet-aws-demo/actions/workflows/dotnet.yml)
+[![Java CI](https://github.com/fchchen/java-to-dotnet-aws-demo/actions/workflows/java.yml/badge.svg)](https://github.com/fchchen/java-to-dotnet-aws-demo/actions/workflows/java.yml)
+
+**[Live Demo (Swagger UI)](https://product-catalog-api-l3eg.onrender.com/swagger/index.html)**
+
 A demonstration project showcasing the migration of a Java Spring Boot application to .NET 8, with AWS S3 integration for image storage.
 
 ## Project Overview
