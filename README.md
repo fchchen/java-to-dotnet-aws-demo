@@ -5,6 +5,8 @@
 
 **[Live Demo (Swagger UI)](https://product-catalog-api-l3eg.onrender.com/swagger/index.html)**
 
+![Swagger UI Screenshot](docs/images/swagger-ui.png)
+
 A demonstration project showcasing the migration of a Java Spring Boot application to .NET 8, with AWS S3 integration for image storage.
 
 ## Project Overview
